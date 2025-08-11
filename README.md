@@ -1,2 +1,2 @@
 # LeetCode
-Here I put ex. from LeetCode :)
+Here I put solutions of exercises from LeetCode :)
