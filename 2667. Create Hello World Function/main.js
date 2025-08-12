@@ -1,7 +1,1 @@
-function NewFuction(){
-    return "Hello World"
-};
-
-function createHelloWorld() {
-    return NewFuction;
-};
+const createHelloWorld=()=>{return () => "Hello World";}
